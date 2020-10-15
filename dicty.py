@@ -1,8 +1,4 @@
-a;ldjsvjv;;a
-as;dljvnajnv;
-as;dkjvaks;djnv
-aldfskvjqs;lnv
-sdfl;nqkjcnd = {
+d = {
 	"Ivanoff": [1, 2, 3, 2, 1, 2, 4, 3, 2],
 	"Petroff": [4, 5, 6, 5, 4],
 	"Sidoroff": [7, 8, 9, 5, 6, 7]
